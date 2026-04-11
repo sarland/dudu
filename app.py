@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="To-Do App", page_icon="✅", layout="centered")
 
-st.title("✅ To-Do App")
+st.title("Jesse rules")
 st.caption("A simple Streamlit to-do list with add, complete, and delete features.")
 
 if "todos" not in st.session_state:
